@@ -28,7 +28,7 @@ twitter_username: mattjmcewen
 github_username:  m-mcewen
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
