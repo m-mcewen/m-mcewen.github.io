@@ -30,6 +30,7 @@ github_username:  m-mcewen
 # Build settings
 remote_theme: daviddarnes/alembic@main
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
