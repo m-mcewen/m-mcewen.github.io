@@ -28,9 +28,13 @@ twitter_username: mattjmcewen
 github_username:  m-mcewen
 
 # Build settings
-theme: jekyll-theme-minimal
+remote_theme: daviddarnes/alembic@main
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+  
+gems:
+- jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
