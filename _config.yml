@@ -120,8 +120,6 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Posts
-  url: /posts/
 - title: Categories
   url: /categories/
 - title: Search
@@ -130,7 +128,7 @@ navigation_header:
 #  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: (c) Matt McEwen
+- title: 
 
 
 #social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
