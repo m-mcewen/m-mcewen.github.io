@@ -3,4 +3,19 @@ title: false
 styles: true
 ---
 
+// Background colours
+$backgroundColour: #ffffff !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #e39612 !default; //#05bf85
+
+// Text colours
+$headingColour: #2e2824 !default; //#242e2b
+$bodyColour: #39322d !default; //#384743
+$linkColour: #e39612 !default; //#05bf85
+$hoverColour: #c26202 !default; //#008000
+$focusColour: #4794ff !default; //#fa407a
+$captionColour: #adaba8 !default; //#a8adac
+$white: #ffffff !default;
+
 @import "alembic";
