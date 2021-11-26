@@ -1,5 +1,6 @@
 ---
-title: Index
-description: the index page
+title: Home
+feature_text: |
+  ## Matt McEwen
 ---
-Here's some test content
+
