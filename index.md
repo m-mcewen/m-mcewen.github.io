@@ -4,7 +4,7 @@ layout: page
 ---
 
 # Matt McEwen
-![My Mugshot](/assets/photos/mugshot.jpg){: style="float: right; width: 35%"}
+![My Mugshot](/assets/photos/mugshot.jpg){: style="float: right; width: 35%; margin: 10px"}
 I'm a PhD Student at the University of California, Santa Barbara and a researcher with the Google Quantum Hardware team.
 
 My work focuses on experimental error correction, particularly on the nature of correlated werrors in current flagship quantum processors.
