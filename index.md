@@ -5,8 +5,8 @@ layout: page
 
 # Matt McEwen
 ![My Mugshot](/assets/photos/mugshot.jpg){: style="float: right; width: 35%; margin: 10px"}
-I'm a researcher with the Google Quantum AI hardware pathfinding team.
-I was previously a PhD student at the University of California, Santa Barbara, and 
+I'm a research scientist working in the Google Quantum AI hardware pathfinding team.
+I was previously a PhD student at the University of California, Santa Barbara.
 
 My work focuses on experimental quantum error correction, particularly on implimenting the surface code and on resolving the effects of correlated errors like leakage.
 
@@ -27,3 +27,5 @@ M. McEwen et al. (2021) [[arxiv]](https://arxiv.org/abs/2102.06131)
 * [Google Scholar Profile](https://scholar.google.com/citations?user=YIEVJmEAAAAJ&hl=en)
 * [Google Research Page](https://research.google/people/106600/)
 
+## Contact Me
+You can email me at matt@mcewen.xyz
