@@ -11,6 +11,9 @@ I was previously a PhD student at the University of California, Santa Barbara.
 My work focuses on experimental quantum error correction, particularly on implimenting the surface code and on resolving the effects of correlated errors like leakage.
 
 ## Selected Publications
+* _Resisting high-energy impact events through gap engineering in superconducting qubit arrays_, 
+Matt McEwen, K. C. Miao, et al. (2024) [[arxiv]](https://arxiv.org/abs/2402.15644)
+
 * _Relaxing Hardware Requirements for Surface Code Circuits using Time-dynamics_, 
 Matt McEwen, Dave Bacon, Craig Gidney. (2023) [[arxiv]](https://arxiv.org/abs/2302.02192)
 
