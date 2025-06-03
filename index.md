@@ -12,7 +12,7 @@ My work focuses on experimental quantum error correction, particularly on implim
 
 ## Selected Publications
 * _Demonstrating dynamic surface codes_,
-A Eickbusch, M. McEwen, et al. (2025) [[arxiv]](https://arxiv.org/abs/2412.14360))
+A Eickbusch, M. McEwen, et al. (2025) [[arxiv]](https://arxiv.org/abs/2412.14360)
 
 * _Resisting high-energy impact events through gap engineering in superconducting qubit arrays_, 
 M. McEwen, K. C. Miao, et al. (2024) [[arxiv]](https://arxiv.org/abs/2402.15644)
